@@ -1,5 +1,5 @@
 
-<img src="https://st2.depositphotos.com/1802620/7621/v/450/depositphotos_76219907-stock-illustration-programming-work-concept.jpg" alt="RoxanaRomaniello" width=100px heigth=80px>
+<img src="https://st2.depositphotos.com/1802620/7621/v/450/depositphotos_76219907-stock-illustration-programming-work-concept.jpg" alt="RoxanaRomaniello" width=100% heigth=>
 
 <br>
 
@@ -37,7 +37,7 @@ Sobre mi...
 
 ## 🤝 Contacto
 
-<a href="romaroxana876@gmail.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvJRR-U9ypdUmfQPO5qLWJQTohAtjMB-4Zf4__wbTP3MaW3H-aDBdO9OvF7hhhHfFTuzI&usqp=CAU" width=30px heigth=30px alt="gmail"></a>
+<a href="https://mail.google.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvJRR-U9ypdUmfQPO5qLWJQTohAtjMB-4Zf4__wbTP3MaW3H-aDBdO9OvF7hhhHfFTuzI&usqp=CAU" width=30px heigth=30px alt="gmail">romaroxana876@gmail.com</a>
 <a href="https://www.linkedin.com/in/roxana-romaniello-49134a232"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=30px heigth=30px alt="linkedin"></a>
 
 <br>  

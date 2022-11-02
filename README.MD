@@ -1,5 +1,5 @@
 
-<img src="https://st2.depositphotos.com/1802620/7621/v/450/depositphotos_76219907-stock-illustration-programming-work-concept.jpg" alt="RoxanaRomaniello" width=100% heigth=>
+<img src="https://st2.depositphotos.com/1802620/7621/v/450/depositphotos_76219907-stock-illustration-programming-work-concept.jpg" alt="RoxanaRomaniello" width=100%>
 
 <br>
 

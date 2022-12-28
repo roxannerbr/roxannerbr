@@ -38,6 +38,7 @@ Sobre mi...
 ## 🤝 Contacto
 
 <a href="https://mail.google.com">romaroxana876@gmail.com</a>
+<br>
 <a href="https://www.linkedin.com/in/roxana-romaniello-49134a232">https://www.linkedin.com/in/roxana-romaniello-49134a232</a>
 
 <br>  
